@@ -1,7 +1,7 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Riya Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
+<img align="right" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyakumari22&label=Profile%20views&color=0e75b6&style=flat" alt="riyakumari22" /> </p>
 
