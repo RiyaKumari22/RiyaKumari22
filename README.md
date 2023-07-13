@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyakumari22&label=Profile%20views&color=0e75b6&style=flat" alt="riyakumari22" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Node JS**
 
 - 🌱 I’m currently learning **Web Development**
 
