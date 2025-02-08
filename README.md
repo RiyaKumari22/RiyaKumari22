@@ -1,15 +1,15 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Riya Kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 <img align="right" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyakumari22&label=Profile%20views&color=0e75b6&style=flat" alt="riyakumari22" /> </p>
 
-- 🔭 I’m currently working on **Backened Development**
+- 🔭 I’m currently working on **Website Development**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
-- 💬 Ask me about **Oops , Data Structure , React, Data Science**
+- 💬 Ask me about **Oops , Data Structure , React, SQL**
 
 - 📫 How to reach me **riya.kumari.4rmk@gmail.com**
 
