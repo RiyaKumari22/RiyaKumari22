@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riya-kumari-190692218/" target="blank"><img align="center" src="https://visualping.io/blog/images/post/post-63/img1.jpg" alt="in/riya-kumari-190692218/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.rhea_sinha._/" target="blank"><img align="center" src="https://images.lifestyleasia.com/wp-content/uploads/sites/7/2021/07/28140458/alexander-shatov-71Qk8ODIBko-unsplash.jpg" alt="_.rhea_sinha._/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riya-kumari-190692218/" target="_blank">LinkedIn</a>
+<a href="https://riya-kumari.vercel.app/" target="_blank">Portfolio </a>
 
 </p>
 
