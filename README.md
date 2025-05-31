@@ -1,15 +1,13 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
-<h1 align="center">Hi 👋, I'm Riya Kumari</h1>
+<h1 align="center">👋 Hi, I'm Riya Kumari</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyakumari22&label=Profile%20views&color=0e75b6&style=flat" alt="riyakumari22" /> </p>
 
-- 🔭 I’m currently working on **Website Development**
+- 🔭 I’m currently working as **Project Assistant- Online Management at FSR Global,** where I am responsible for overseeing and maintaining various digital platforms, utilizing CMS and LMS tools to ensure optimal performance, security, and regular content updates. 
 
-- 🌱 I’m currently learning **Mobile App Development**
-
-- 💬 Ask me about **Oops , Data Structure , React, SQL**
+- 💬 Ask me about **Mern Stack, Moodle,Oops , Data Structure,React,Python, SQL**
 
 - 📫 How to reach me **riya.kumari.4rmk@gmail.com**
 
@@ -19,6 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/riya-kumari-190692218/" target="blank"><img align="center" src="https://visualping.io/blog/images/post/post-63/img1.jpg" alt="in/riya-kumari-190692218/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.rhea_sinha._/" target="blank"><img align="center" src="https://images.lifestyleasia.com/wp-content/uploads/sites/7/2021/07/28140458/alexander-shatov-71Qk8ODIBko-unsplash.jpg" alt="_.rhea_sinha._/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
