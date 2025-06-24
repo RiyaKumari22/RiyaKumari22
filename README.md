@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" width="400" src="https://www.canva.com/design/DAGrPnKO1dY/QBLofYNu9HU4Wf4kKNxmAA/view?utm_content=DAGrPnKO1dY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1d4ddcc61"
 
-
+<p align="left"> <img src="https://www.canva.com/design/DAGrPnKO1dY/QBLofYNu9HU4Wf4kKNxmAA/view?utm_content=DAGrPnKO1dY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb1d4ddcc61" alt="riyakumari22" /> </p>
 
 - 🔭 I’m currently working as **Project Assistant- Online Management at FSR Global,** where I am responsible for overseeing and maintaining various digital platforms, utilizing CMS and LMS tools to ensure optimal performance, security, and regular content updates. 
 
